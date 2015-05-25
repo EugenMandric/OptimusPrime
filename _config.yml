@@ -5,8 +5,13 @@
 user: EugenMandric
 
 #Step 2: give your study group a name and a short description:
+<<<<<<< HEAD
 title: Optimus Prime Math Study Group 
 description: "A study group for Calculus : Single Variable on Coursera by Prof. Robert Ghrist - May 2015."
+=======
+title: Optimus Prime Math Study Group
+description: "Calculus : Single Variable by Prof. Robert Ghrist - Coursera May 2015 "
+>>>>>>> origin/gh-pages
 
 #Step 3: press the green 'Commit Changes' button at the bottom of this page.
 
